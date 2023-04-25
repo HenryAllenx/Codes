@@ -33,9 +33,7 @@
 
 </body>
 </html>
-<script src="main.js"></script>
-
-JAVASCRIPT:
+<script>
 
 function soma(params) {
     var x
@@ -84,4 +82,6 @@ function div(params) {
 
     document.getElementById("resp").innerHTML = x / y
 }
+
+</script>
 
